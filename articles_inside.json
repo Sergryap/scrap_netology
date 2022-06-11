@@ -1,0 +1,2457 @@
+[
+    {
+        "date": "2022-06-10",
+        "title": "Новая звезда в созвездии Скорпиона",
+        "link": "https://habr.com/ru/post/670862/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Обзор программы DotNext 2022 Spring: сольем микросервисы в монолит, приручим хаос и узрим многоликий DDD",
+        "link": "https://habr.com/ru/company/jugru/blog/670816/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Материалы бэкенд-митапа. MongoDB, оптимизация алгоритмов и диагностика проблем в больших проектах",
+        "link": "https://habr.com/ru/company/joom/blog/670832/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как разработчики проект с Flow.js на Typescript переводили",
+        "link": "https://habr.com/ru/company/exness/blog/670828/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Alexa 35: всего лишь 4К в формате Super35?",
+        "link": "https://habr.com/ru/post/670810/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Создание и настройка диаграмм с помощью нового Swift Charts Framework",
+        "link": "https://habr.com/ru/post/670804/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Зубы мудрости: «Выше только...»",
+        "link": "https://habr.com/ru/post/670788/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как облачный провайдер помогает выстроить комплексную защиту от киберугроз",
+        "link": "https://habr.com/ru/company/cloud_mts/blog/670792/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Flutter for Web: гайд для начинающих",
+        "link": "https://habr.com/ru/company/friflex/blog/666952/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Лазеры в электронике: деметаллизация покрытий",
+        "link": "https://habr.com/ru/post/670608/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как я извлекал иерархию статей Википедии для задач NLP",
+        "link": "https://habr.com/ru/company/mts_ai/blog/670782/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Не TeamViewer-ом единым: как российские разработчики смогли развить отечественный проект на базе WebRTC",
+        "link": "https://habr.com/ru/post/670778/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Ещё о Flutter 3",
+        "link": "https://habr.com/ru/company/rshb/blog/670776/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Open source, собственная инфраструктура и экспертиза: как мы сделали аналог зарубежных межсетевых экранов",
+        "link": "https://habr.com/ru/company/selectel/blog/668808/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "СКС и электрика: с чем работать инженеру сегодня и завтра",
+        "link": "https://habr.com/ru/company/x-com/blog/670770/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Наш мир нереален: для чего нужен геймдизайн филинга",
+        "link": "https://habr.com/ru/company/mygames/blog/670670/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Очумелые ручки на OFFZONE 2022: как прокачать бейдж конференции",
+        "link": "https://habr.com/ru/company/bizone/blog/670684/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Кем работать в ИТ в 2022: Frontend-разработчик",
+        "link": "https://habr.com/ru/company/habr_career/blog/669702/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Вавилонское сайтотворение: как фронтендеры и дизайнеры понимают друг друга",
+        "link": "https://habr.com/ru/article/669042/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Выбор кадастрового инженера с помощью Data Science",
+        "link": "https://habr.com/ru/post/670760/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Public Health Sciences: зачем нужны специалисты в области наук о здоровье",
+        "link": "https://habr.com/ru/company/spbifmo/blog/670750/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "От Bitrix до Golang, к монолиту и обратно: как мы растили СберМегаМаркет и к чему пришли",
+        "link": "https://habr.com/ru/company/sbermegamarket/blog/670746/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "«Золотой век» Buhtrap: разбираем троян-долгожитель",
+        "link": "https://habr.com/ru/company/group-ib/blog/670650/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Баг с псионическими сигнатурами в Java",
+        "link": "https://habr.com/ru/company/sportmaster_lab/blog/670742/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как я открыл компанию по созданию детских наборов электроники – Часть 2",
+        "link": "https://habr.com/ru/company/ruvds/blog/670078/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Цифровой кочевник, или тернистый путь релокации",
+        "link": "https://habr.com/ru/post/670728/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Обзор книги «Начинаем программировать на Python», лучшая книга для начинающих с нуля",
+        "link": "https://habr.com/ru/post/670740/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Продвинутый левел-дизайн: киноприемы в играх, кор-луп и силуэты",
+        "link": "https://habr.com/ru/company/pixonic/blog/669858/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Лучшие практики тестирования API",
+        "link": "https://habr.com/ru/company/ingos_it/blog/670730/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как писать программы с математическим совершенством",
+        "link": "https://habr.com/ru/company/first/blog/670538/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как настроить и запустить систему отслеживания измененных данных PostgreSQL",
+        "link": "https://habr.com/ru/company/first/blog/668516/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Как проходить собеседования с клиентом. Практика ИТ-аутстаффа",
+        "link": "https://habr.com/ru/post/670646/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "10 распространенных ошибок в пользовательских интерфейсах",
+        "link": "https://habr.com/ru/company/productivity_inside/blog/670690/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Юбилей Apple II – 45 лет легендарному компьютеру",
+        "link": "https://habr.com/ru/company/timeweb/blog/670524/"
+    },
+    {
+        "date": "2022-06-10",
+        "title": "Астрономический словарик: гидростатическое равновесие, горизонт событий, гравитационное линзирование",
+        "link": "https://habr.com/ru/post/670682/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Анализ аудиоданных (часть 2)",
+        "link": "https://habr.com/ru/post/670676/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Автогенерация ETL-кода",
+        "link": "https://habr.com/ru/company/sberbank/blog/668828/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Выставление приоритетов в очереди для «важных» клиентов",
+        "link": "https://habr.com/ru/post/670672/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Сравнительный обзор Яндекс Станции 2 со Станцией Мини",
+        "link": "https://habr.com/ru/post/669924/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Шаблон новичка на пути PANDAS в искусстве анализа данных",
+        "link": "https://habr.com/ru/post/670668/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Как гуманитарии используют знания айтишников: Data-журналистика",
+        "link": "https://habr.com/ru/company/netologyru/blog/670660/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Как мы заняли 1-е место в задаче Matching в соревновании Data Fusion Contest 2022, или как нейронка обогнала бустинг",
+        "link": "https://habr.com/ru/company/ods/blog/670572/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Реальные примеры применения Kafka в автопроме",
+        "link": "https://habr.com/ru/company/southbridge/blog/670652/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Переход на UNIGINE с Unreal Engine 4: гайд для программистов",
+        "link": "https://habr.com/ru/company/unigine/blog/670518/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Как мы создали сквозную платформу некоммерческих закупок B2B Altis",
+        "link": "https://habr.com/ru/company/mvideo/blog/670616/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Марксизм в работе управленца: ЛПР и интересы собственников",
+        "link": "https://habr.com/ru/post/670582/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Ускоряем сериализацию JSON в Python с orjson и Rust",
+        "link": "https://habr.com/ru/company/stm_labs/blog/670576/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Gitlab за решеткой: синхронизация репозиториев за VPN средствами bash",
+        "link": "https://habr.com/ru/post/670174/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Как мы разрабатывали OCR для приборов учёта коммунальных услуг",
+        "link": "https://habr.com/ru/company/sberbank/blog/670568/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Три подхода к анализу текстов",
+        "link": "https://habr.com/ru/post/670566/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Как быстро создать обучающий датасет для задач обнаружения объектов YOLO с помощью Label Studio",
+        "link": "https://habr.com/ru/post/670532/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Как опыт работы в техподдержке может помочь в карьере менеджера проектов",
+        "link": "https://habr.com/ru/company/ispring/blog/670384/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "React: тестируем компоненты с помощью Jest и Testing Library",
+        "link": "https://habr.com/ru/company/timeweb/blog/670480/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Два простых высоковольтных генератора своими руками",
+        "link": "https://habr.com/ru/company/ruvds/blog/670214/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Создание своей эргономичной клавиатуры (часть 2: определяемся с железом)",
+        "link": "https://habr.com/ru/post/670458/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Где работать в ИТ в 2022: Звук",
+        "link": "https://habr.com/ru/company/habr_career/blog/670406/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Программы-вымогатели (Ransomware) — как они работают и как с ними бороться",
+        "link": "https://habr.com/ru/company/first/blog/670026/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Звонки в приложениях Авито",
+        "link": "https://habr.com/ru/company/avito/blog/670256/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Защищаем API – что важно знать?",
+        "link": "https://habr.com/ru/company/angarasecurity/blog/670500/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Okteto Cloud – ещё один способ организации локальной разработки в Kubernetes",
+        "link": "https://habr.com/ru/company/flant/blog/667806/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Простое руководство по атомарности в C++",
+        "link": "https://habr.com/ru/company/piter/blog/670456/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Jli.dll по-новому: как хакеры использовали известную DLL в фишинге якобы от имени Минцифры",
+        "link": "https://habr.com/ru/company/solarsecurity/blog/670294/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Забанят ли Википедию в России?",
+        "link": "https://habr.com/ru/company/wikimedia_ru/blog/669658/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Собственный Dropbox на ownCloud. Резервное копирование данных со смартфона. Серверная часть",
+        "link": "https://habr.com/ru/post/670476/"
+    },
+    {
+        "date": "2022-06-09",
+        "title": "Архитектура платформы для проектирования интерактивного видеоконтента",
+        "link": "https://habr.com/ru/post/670472/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Создание Commodore 64: истории инженеров. Часть 3",
+        "link": "https://habr.com/ru/company/ispsystem/blog/670232/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Так ли близко беспарольное будущее",
+        "link": "https://habr.com/ru/company/vasexperts/blog/670446/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Кнопка “Mute” не выключает микрофон",
+        "link": "https://habr.com/ru/company/globalsign/blog/670442/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Анализ тестов — как выкидывать лишнее",
+        "link": "https://habr.com/ru/post/670428/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Сибирские инженеры создали «умную одежду» для реабилитации людей, передвигающихся на коляске",
+        "link": "https://habr.com/ru/post/670412/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Как убрать пустой тег Option в Select",
+        "link": "https://habr.com/ru/post/670390/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "МойОфис выпустил публичный релиз Mailion 1.0 и добавил более 180 новых функций в другие продукты",
+        "link": "https://habr.com/ru/company/ncloudtech/blog/670272/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "От конкуренции производителей – к конкуренции продуктов",
+        "link": "https://habr.com/ru/company/pgk/blog/670364/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Тест на доверчивость: зачем мы отправляем фишинг-сообщения сотрудникам",
+        "link": "https://habr.com/ru/company/selectel/blog/670312/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "DIY. Книги для всех, даром",
+        "link": "https://habr.com/ru/company/ods/blog/669990/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Gatekeeper и его роль в обеспечении безопасности кластеров Kubernetes",
+        "link": "https://habr.com/ru/company/vk/blog/669788/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Про роботов для обучения, конструкторы и Arduino, и, как выяснилось, не только….муки выбора и мой опыт",
+        "link": "https://habr.com/ru/post/670352/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Как следить за здоровьем морских свинок с помощью Machine Learning и мобильного приложения",
+        "link": "https://habr.com/ru/company/friflex/blog/670298/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Обзор книги «Изучаем Python», отличная книга для начинающих и не только",
+        "link": "https://habr.com/ru/post/669708/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Защита от DDoS и web-атак: нюансы подключения из облака",
+        "link": "https://habr.com/ru/company/oxygendc/blog/670308/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Научитесь учиться не учась",
+        "link": "https://habr.com/ru/company/habr/blog/670310/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Tree-sitter: обзор инкрементального парсера",
+        "link": "https://habr.com/ru/post/670140/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр (жанра RPG и стратегии) с API на PHP ч. 3",
+        "link": "https://habr.com/ru/post/670296/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Топ 5 самых громких событий инфосека за май 2022",
+        "link": "https://habr.com/ru/company/tomhunter/blog/670276/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Good Software Engineer — кто это?",
+        "link": "https://habr.com/ru/company/jugru/blog/670018/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Самодельный носимый рюкзачный компрессор на 600 атмосфер? Вызов принят",
+        "link": "https://habr.com/ru/company/ruvds/blog/669970/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Типографская раскладка для 60-процентной клавиатуры. Часть 2",
+        "link": "https://habr.com/ru/post/659693/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Кто круче rsync? Интересные алгоритмы для синхронизации данных",
+        "link": "https://habr.com/ru/company/first/blog/668520/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Кто за всех решил, что python удобен для «гражданской» аналитики?",
+        "link": "https://habr.com/ru/post/670250/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "WWDC 2022. Что нового в SwiftUI",
+        "link": "https://habr.com/ru/company/usetech/blog/670242/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Управляем правами доступа в облаке на примере Amazon Web Services",
+        "link": "https://habr.com/ru/company/gaz-is/blog/670240/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Как без боли сделать мультиплеер на Godot, который будет работать в браузере",
+        "link": "https://habr.com/ru/post/670238/"
+    },
+    {
+        "date": "2022-06-08",
+        "title": "Покоряем высоты для велонавигатора 2ГИС",
+        "link": "https://habr.com/ru/company/2gis/blog/670038/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Java. Решение практических задач",
+        "link": "https://habr.com/ru/post/670218/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Как я сделал полноценное приложение, не прикасаясь к JavaScript",
+        "link": "https://habr.com/ru/post/670202/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Недельный геймдев: #73 — 5 июня, 2022",
+        "link": "https://habr.com/ru/post/670184/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Как мы не смогли создать медицинского чат-бота. История проекта, который так и не увидел свет",
+        "link": "https://habr.com/ru/company/mts_ai/blog/670144/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "История одной серверной: дизайнерское решение для сложной ИТ-инфраструктуры",
+        "link": "https://habr.com/ru/company/rdp/blog/670138/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "На вес золота: как получать данные о размере и составе руды за секунды, а не часы",
+        "link": "https://habr.com/ru/company/redmadrobot/blog/670132/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Мировой рынок биометрии: главные тренды",
+        "link": "https://habr.com/ru/company/digitalrightscenter/blog/670126/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "ВКС-дайджест: не так страшен Zoom fatigue, ковры для виртуального фона, проблемы российской видеоконференцсвязи",
+        "link": "https://habr.com/ru/post/670076/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Следующий уровень автоматизации Kubernetes. Создаем свой оператор",
+        "link": "https://habr.com/ru/company/otus/blog/669806/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Как понять, что стоматолог адекватный",
+        "link": "https://habr.com/ru/company/belayaraduga/blog/669442/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "DUMP-2022: итоги, благодарности и презентации всех докладов",
+        "link": "https://habr.com/ru/post/670066/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Введение в dbt шаг за шагом",
+        "link": "https://habr.com/ru/post/670062/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "[Карьера в IT] Не HH единым: где искать вакансии, как с ними работать и при чем тут нетворкинг",
+        "link": "https://habr.com/ru/company/getmatch/blog/669810/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "DIY: ретранслятор на micro:bit и радиомодуле LoRa увеличивает дальность связи",
+        "link": "https://habr.com/ru/company/first/blog/670052/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр (жанра RPG и стратегии) с API на PHP ч. 2",
+        "link": "https://habr.com/ru/post/670050/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Проект ИТМО: Мониторим пациентов в коме, которые не могут пожаловаться на свое состояние",
+        "link": "https://habr.com/ru/company/spbifmo/blog/670020/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "«У нас воруют — мы находим, процент примерно одинаковый». Как устроена система безопасности шеринга самокатов Юрент",
+        "link": "https://habr.com/ru/company/bastion/blog/669500/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Создание демки специально для HABR — Часть 3",
+        "link": "https://habr.com/ru/company/ruvds/blog/669678/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Книга «Веб-дизайн для недизайнеров»",
+        "link": "https://habr.com/ru/company/piter/blog/669112/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "«Свободные рубли Гезеля»: снова актуальная теория экономического роста во время кризиса",
+        "link": "https://habr.com/ru/post/666446/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Чек-лист: что проверить перед переездом IT-инфраструктуры",
+        "link": "https://habr.com/ru/company/itsumma/blog/670008/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Специальный выпуск Apple Pro Weekly News – Apple WWDC22",
+        "link": "https://habr.com/ru/post/669982/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Почему мы перешли с Python на Go",
+        "link": "https://habr.com/ru/company/skillfactory/blog/669818/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Apache NiFi: как решить ошибки, которые не гуглятся",
+        "link": "https://habr.com/ru/company/nlmk/blog/669812/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Наш опыт, как не надо растить тимлидов (не делайте как мы)",
+        "link": "https://habr.com/ru/company/skyeng/blog/668510/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Быть бизнес-аналитиком в ИТ",
+        "link": "https://habr.com/ru/company/lanit/blog/669428/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр (жанра RPG и стратегии) с API на PHP ч. 1",
+        "link": "https://habr.com/ru/post/669996/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Чего ждать разработчику от WWDC 2022",
+        "link": "https://habr.com/ru/company/usetech/blog/669994/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Установка в Linux специализированного ПО, защищенного ключами Guardant, на примере SmetaWizard",
+        "link": "https://habr.com/ru/post/667456/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Визуализируем данные из xml в виде социальной сети",
+        "link": "https://habr.com/ru/post/669980/"
+    },
+    {
+        "date": "2022-06-07",
+        "title": "Sprint Review – воплощение идеи оптимизации работы над информационными технологиями",
+        "link": "https://habr.com/ru/company/bashnipineft/blog/669892/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Не мучайте свой мизинец",
+        "link": "https://habr.com/ru/post/669912/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Измеритель CO2 без датчика CO2?",
+        "link": "https://habr.com/ru/post/669906/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "О чём расскажут на JPoint: от профайлеров до контейнеров",
+        "link": "https://habr.com/ru/company/jugru/blog/669070/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Переписываем API тесты",
+        "link": "https://habr.com/ru/post/669880/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Самодельный 3D принтер на гальванометрических сканаторах",
+        "link": "https://habr.com/ru/company/stc_spb/blog/669052/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Как работать с PyScript — фреймворком для фронтенда на Python",
+        "link": "https://habr.com/ru/company/skillfactory/blog/669814/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Мой краткий чек-лист по скилам системного аналитика",
+        "link": "https://habr.com/ru/company/alfa/blog/669842/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Как сделать свою рекомендательную систему: история одной дипломной работы",
+        "link": "https://habr.com/ru/company/yandex_praktikum/blog/669780/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Рисуем интерактивный линейный график на iOS с помощью Charts",
+        "link": "https://habr.com/ru/company/psb/blog/669854/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Аппаратный взлом",
+        "link": "https://habr.com/ru/company/ruvds/blog/669276/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Как создать мобильную ферму, или Вжух! И ты мобильный фермер",
+        "link": "https://habr.com/ru/company/atisu/blog/669830/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Почему сайт стал работать медленно? 9 причин, и какие есть решения",
+        "link": "https://habr.com/ru/post/669828/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "«Арктическая база» без современных технологий: как живут оленеводы",
+        "link": "https://habr.com/ru/company/tuturu/blog/669728/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Анализ механизмов защиты информации в микросервисных архитектурах",
+        "link": "https://habr.com/ru/post/669816/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "О Flutter 3",
+        "link": "https://habr.com/ru/company/rshb/blog/669794/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Корпус NeboAir: от идеи до литья",
+        "link": "https://habr.com/ru/company/nebo/blog/669724/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Скачивание любого сайта с помощью Python себе на компьютер",
+        "link": "https://habr.com/ru/post/669766/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "НСДИ: ещё один взгляд через год",
+        "link": "https://habr.com/ru/post/667162/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Создание своей эргономичной клавиатуры (часть 1: создание раскладки)",
+        "link": "https://habr.com/ru/post/669698/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Мониторинг исходящего и входящего трафика в облачном хранилище Nextcloud",
+        "link": "https://habr.com/ru/company/cloud4y/blog/669716/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Visiology 3.0: реальная замена Microsoft Power BI или наш дерзкий маркетинговый ход?",
+        "link": "https://habr.com/ru/company/visiology/blog/669572/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Обзор Kindle Voyage",
+        "link": "https://habr.com/ru/post/669756/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "И на камнях растут деревья: как написать интересный пост о своём коде, когда это кажется невозможным",
+        "link": "https://habr.com/ru/article/669064/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Советы, которые могут спасти Вас от ужасов PyYAML",
+        "link": "https://habr.com/ru/post/669684/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Фронтенд-новости №9. Конец эпохи IE, 19 лет Wordpress, цветовые тренды 2022",
+        "link": "https://habr.com/ru/company/htmlacademy/blog/669738/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Digital-мероприятия в Санкт-Петербурге c 6 по 12 июня",
+        "link": "https://habr.com/ru/post/669744/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Запускаем MVP: как помочь команде справиться с режимом аврала",
+        "link": "https://habr.com/ru/post/669736/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Поворотный стол. Часть 2",
+        "link": "https://habr.com/ru/post/669092/"
+    },
+    {
+        "date": "2022-06-06",
+        "title": "Еще раз о KISS и трендах",
+        "link": "https://habr.com/ru/post/669690/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Рейтинг русскоязычных энкодеров предложений",
+        "link": "https://habr.com/ru/post/669674/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Как IT-компаниям растить специалистов в условиях их дефицита на рынке",
+        "link": "https://habr.com/ru/post/669680/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Неоплатонизм и информатика",
+        "link": "https://habr.com/ru/post/669668/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Как россиянину получить ВНЖ в Армении?",
+        "link": "https://habr.com/ru/post/669666/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Дайджест недели от Apple Pro Weekly News (30.05 – 05.06.22)",
+        "link": "https://habr.com/ru/post/669610/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Дайджест интересных материалов для мобильного разработчика #445 (30 мая — 5 июня)",
+        "link": "https://habr.com/ru/company/productivity_inside/blog/669654/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Измерение вакуума (часть 6). Вакуумметр на основе явления упругого рассеяния электронов на молекулах газа",
+        "link": "https://habr.com/ru/post/669640/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Пластилиновый космос",
+        "link": "https://habr.com/ru/post/669638/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Моя инновационная технология 3D звука для наушников",
+        "link": "https://habr.com/ru/post/669636/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "QaraTMS — open source система для управления тестированием",
+        "link": "https://habr.com/ru/post/669566/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Вспоминаем Apple Newton 30 лет спустя",
+        "link": "https://habr.com/ru/company/ruvds/blog/669556/"
+    },
+    {
+        "date": "2022-06-05",
+        "title": "Разработка антенн для тестирования клеток Фарадея в МРТ",
+        "link": "https://habr.com/ru/post/665804/"
+    },
+    {
+        "date": "2022-06-04",
+        "title": "Уязвимость в Atlassian Confluence Server и Data Center позволяет злоумышленникам удаленно выполнять команды на сервере",
+        "link": "https://habr.com/ru/post/669592/"
+    },
+    {
+        "date": "2022-06-04",
+        "title": "Как я в IT ходил. Или сказ о курсах Otus QA engineer. Basic. Часть1",
+        "link": "https://habr.com/ru/post/669586/"
+    },
+    {
+        "date": "2022-06-04",
+        "title": "А насколько Loom реактивный?",
+        "link": "https://habr.com/ru/post/669582/"
+    },
+    {
+        "date": "2022-06-04",
+        "title": "Раз-два и в дамки: минимакс с альфа-бета отсечением",
+        "link": "https://habr.com/ru/post/669580/"
+    },
+    {
+        "date": "2022-06-04",
+        "title": "Кросс-компиляция Qt в России",
+        "link": "https://habr.com/ru/post/669552/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Как написать средство проверки орфографии кхмерского языка",
+        "link": "https://habr.com/ru/company/skillfactory/blog/669466/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Alexa 35: немцы опять подняли планку",
+        "link": "https://habr.com/ru/post/669530/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Написание тестов API на JavaScript с Pactum",
+        "link": "https://habr.com/ru/company/otus/blog/669528/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Важная причина поражения СССР в цивилизационной гонке с Западом",
+        "link": "https://habr.com/ru/post/669524/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Как мы участвовали в чемпионате по DS длиной 3,5 месяца",
+        "link": "https://habr.com/ru/company/alfa/blog/669522/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Расшаривание USB-устройства по нескольким клиентам через TCP",
+        "link": "https://habr.com/ru/company/ruvds/blog/669408/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Как создать CDN в отдельно взятой стране",
+        "link": "https://habr.com/ru/company/otus/blog/669472/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Как благодаря нераскрывшемуся парашюту возникла дополненная реальность",
+        "link": "https://habr.com/ru/company/mvideo/blog/669490/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Как с помощью Python создать полностью автоматизированную трейдинговую систему на базе ИИ",
+        "link": "https://habr.com/ru/company/vk/blog/669462/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Pandas vs dask vs sqlite на raspberry pi",
+        "link": "https://habr.com/ru/post/669416/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры",
+        "link": "https://habr.com/ru/company/sberbank/blog/669456/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Командное «ретро» в Майнкрафт: 10 из 10, не рекомендую",
+        "link": "https://habr.com/ru/company/dododev/blog/668946/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Охота на бройлеров. Как работают китайские телефонные хакеры",
+        "link": "https://habr.com/ru/company/ruvds/blog/665388/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "DIY: передаем данные на километры с помощью контроллера Micro::Bit и радиомодуля EBYTE LoRa (Часть 2)",
+        "link": "https://habr.com/ru/company/first/blog/669398/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "3D-печать с помощью звука",
+        "link": "https://habr.com/ru/company/ua-hosting/blog/669220/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "17 человек в 7 городах: как наша команда научилась эффективно работать в 5 часовых поясах",
+        "link": "https://habr.com/ru/company/indriver/blog/668960/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "«Держите мой отклик!». Почему дизайнерам не отвечают на отклики по вакансиям",
+        "link": "https://habr.com/ru/post/669414/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Зачем и как айтишнику быть спикером курсов и конференций",
+        "link": "https://habr.com/ru/company/southbridge/blog/669312/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Обзор книги «Секреты Python. 59 рекомендаций по написанию эффективного кода»",
+        "link": "https://habr.com/ru/post/669396/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Когда ты мал, да удал: 5 новых мини-ПК начала лета для дома и офиса",
+        "link": "https://habr.com/ru/company/selectel/blog/668744/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Shellinabox — если вдруг заблокируют SSH",
+        "link": "https://habr.com/ru/post/669386/"
+    },
+    {
+        "date": "2022-06-03",
+        "title": "Новинки deep learning. Часть 1: PolyLoss, Imagen, Cogview2 и CoCa",
+        "link": "https://habr.com/ru/company/hostkey/blog/669384/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Эксгибиционизм Sansui AU-D907X? Поехали",
+        "link": "https://habr.com/ru/post/669378/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Введение в Jetpack Compose",
+        "link": "https://habr.com/ru/company/rncb/blog/669374/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Прокладываем тропинки до микросервисов",
+        "link": "https://habr.com/ru/company/otus/blog/669342/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "От компромиссов TypeScript до мощного браузерного 3D: программа HolyJS 2022 Spring",
+        "link": "https://habr.com/ru/company/jugru/blog/668952/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Самурайские инструменты QA: Python (requests)",
+        "link": "https://habr.com/ru/company/bimeister/blog/669344/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "ThinkPad R31: пятиугольное ретро",
+        "link": "https://habr.com/ru/company/kaspersky/blog/669340/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Как мы тестировали и поддерживали приложение для умных весов",
+        "link": "https://habr.com/ru/post/669330/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "«Могла набирать СМС с закрытыми глазами»‎: читатели наших блогов рассказывают о первых телефонах и КПК",
+        "link": "https://habr.com/ru/company/selectel/blog/669252/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Как организовать мультитенантность в кластерах Kubernetes",
+        "link": "https://habr.com/ru/company/sberbank/blog/669322/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Анимация аккордеона и свойства height (max-height) в чистом CSS",
+        "link": "https://habr.com/ru/post/669310/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Linux и TinyСC в браузере",
+        "link": "https://habr.com/ru/company/ruvds/blog/669196/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Переход на UNIGINE с Unreal Engine 4: гайд для 3D-художников",
+        "link": "https://habr.com/ru/company/unigine/blog/668474/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Тестируем комплексную защиту от DDoS в 2 этапа",
+        "link": "https://habr.com/ru/company/dataline/blog/669250/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "DIY дозиметр за полчаса: так ли фонят набережные Питера?",
+        "link": "https://habr.com/ru/post/669156/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "BI с Redshift от ETL до бордов",
+        "link": "https://habr.com/ru/post/669240/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Как я разогнал fail2ban* в тысячу раз с помощью SIMD",
+        "link": "https://habr.com/ru/post/668634/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Изучаем и собираем Klon Centaur",
+        "link": "https://habr.com/ru/company/ruvds/blog/668372/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Анализируем речь с помощью Python: Как и о чем говорят на YouTube-канале «вДудь»?",
+        "link": "https://habr.com/ru/post/668538/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Чудо фотополимерный 3D принтер CREALITY HALOT-SKY",
+        "link": "https://habr.com/ru/post/669168/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "DIY: передаем данные на километры с помощью контроллера Micro::Bit и радиомодуля EBYTE LoRa (Часть 1)",
+        "link": "https://habr.com/ru/company/first/blog/669218/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Память в браузерах и в Node.js: ограничения, утечки и нестандартные оптимизации",
+        "link": "https://habr.com/ru/company/yandex/blog/666870/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Небольшие советы по работе в GameMaker на примере моего психологического триллера",
+        "link": "https://habr.com/ru/post/669212/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "20+ популярных опенсорсных датасетов для Computer Vision",
+        "link": "https://habr.com/ru/post/669170/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "6 простых правил хорошего alt-текста",
+        "link": "https://habr.com/ru/company/htmlacademy/blog/667540/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Типографская раскладка для 60-процентной клавиатуры",
+        "link": "https://habr.com/ru/post/659471/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Quantel Paintbox — устройство, изменившее мир телевизионных передач",
+        "link": "https://habr.com/ru/company/cloud4y/blog/669192/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Гибкая навигация в iOS",
+        "link": "https://habr.com/ru/company/hh/blog/669124/"
+    },
+    {
+        "date": "2022-06-02",
+        "title": "Простые шаги по повышению производительности ASP NET Core приложения",
+        "link": "https://habr.com/ru/post/669176/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Как с помощью Python создать приложение для расшифровки речи в реальном времени",
+        "link": "https://habr.com/ru/company/skillfactory/blog/669126/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Люби меня, люби. Как дизайнеру и продакту улучшить совместную работу",
+        "link": "https://habr.com/ru/post/669166/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "5 способов найти удаленную работу за рубежом",
+        "link": "https://habr.com/ru/post/669152/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Golang-дайджест № 17 (1 – 31 мая  2022)",
+        "link": "https://habr.com/ru/post/669134/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Web Testing Specific (особенности тестирования Web)",
+        "link": "https://habr.com/ru/company/space307/blog/668974/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Создание бессерверных API с помощью Node.js и AWS Lambda",
+        "link": "https://habr.com/ru/company/otus/blog/669118/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Разбор конкурса IDS Bypass на Positive Hack Days 11",
+        "link": "https://habr.com/ru/company/pt/blog/669068/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Обновление производительности BonsaiDb: глубокое погружение в синхронизацию файлов",
+        "link": "https://habr.com/ru/post/669060/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Как ускорить Python с помощью C-расширений. Часть 2",
+        "link": "https://habr.com/ru/company/ru_mts/blog/668986/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Собираем генератор данных на Blender. Часть 2: Камера",
+        "link": "https://habr.com/ru/company/friflex/blog/668978/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "«Яндекс.Такси» на железной дороге: почему это реально?",
+        "link": "https://habr.com/ru/company/pgk/blog/669048/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Причинно-следственный анализ в машинном обучении: итоги 2021 г",
+        "link": "https://habr.com/ru/company/ods/blog/667730/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Как я дообучал Tesseract и что из этого получилось",
+        "link": "https://habr.com/ru/company/rosatom/blog/669020/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Умная кухня",
+        "link": "https://habr.com/ru/company/X5Tech/blog/668998/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "First-Party Sets: как большой брат рушит границы приватности в сети",
+        "link": "https://habr.com/ru/company/brave/blog/666896/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Как распечатать цветной механический телевизор на 3D-принтере",
+        "link": "https://habr.com/ru/company/cloud4y/blog/668962/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Использование URL-адреса функции AWS Lambda для создания бессерверного бэкенда для Slack",
+        "link": "https://habr.com/ru/company/first/blog/667204/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Компьютерное зрение в поиске атмосферных осадков",
+        "link": "https://habr.com/ru/post/668958/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Фундамент квантового интернета: телепортация кубита",
+        "link": "https://habr.com/ru/company/ua-hosting/blog/668730/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Привет, Open Compute на 21 дюйме, или Обзор сервера GAGAR>N V1",
+        "link": "https://habr.com/ru/company/jetinfosystems/blog/668894/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Десять лучших опенсорсных инструментов аннотирования 2021 года для Computer Vision",
+        "link": "https://habr.com/ru/post/665684/"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "Как Лена в 29 лет бросила успешную карьеру в финансах и решила «вкатиться в айти»",
+        "link": "https://habr.com/ru/post/668932/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Как поживает Firefox?",
+        "link": "https://habr.com/ru/company/ispsystem/blog/668916/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Передача энергии по лазерному лучу становится реальностью",
+        "link": "https://habr.com/ru/company/skillfactory/blog/668904/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Оптимизация препроцессинга и постпроцессинга нейросети Yolov5 с помощью CUDA, Thrust и Nvidia Perfomance primitives",
+        "link": "https://habr.com/ru/post/668906/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Тотальный контроль – для слабаков. Почему стремление следить за сотрудниками на удалёнке плохо заканчивается",
+        "link": "https://habr.com/ru/post/668830/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Стили заголовков в CSS: градиенты",
+        "link": "https://habr.com/ru/company/netologyru/blog/668884/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Методы проверки гипотез. Результаты беседы с продактом из ВТБ. Разговор с продактом из ВТБ",
+        "link": "https://habr.com/ru/post/668042/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Фарм мерча от Positive Technologies на PHD11",
+        "link": "https://habr.com/ru/post/668874/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Эволюция Server-Driven UI: динамические поля, хэндлеры и многошаг",
+        "link": "https://habr.com/ru/company/alfa/blog/668754/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Добавляйте единицы измерения в имена",
+        "link": "https://habr.com/ru/company/beeline/blog/668832/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Азбука вкуса, Nuxt и наш тернистый путь к микрофронтам",
+        "link": "https://habr.com/ru/post/663260/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Дайджест событий для эйчаров и рекрутеров в IT в июне 2022",
+        "link": "https://habr.com/ru/company/habr_career/blog/668826/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Почему RISC-V? — лекция Станислава Полонского",
+        "link": "https://habr.com/ru/company/samsung/blog/668810/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Современный цифровой офис 2022",
+        "link": "https://habr.com/ru/company/mkb/blog/668802/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Настройка LEMP-сервера с помощью Ansible для простых проектов. Часть первая: знакомство с Ansible",
+        "link": "https://habr.com/ru/company/nixys/blog/668458/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Делаем плату, или Как мы создавали гаджет, чтобы увидеть воздух, которым дышим. Фэйл и пара советов",
+        "link": "https://habr.com/ru/company/nebo/blog/668732/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Книга «Spring Boot по-быстрому»",
+        "link": "https://habr.com/ru/company/piter/blog/668616/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Система распознавания шрифта Брайля. Читаем написанное белым по белому",
+        "link": "https://habr.com/ru/company/ods/blog/668786/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "АДСМ6. Интерфейсы взаимодействия с сетевыми устройствами",
+        "link": "https://habr.com/ru/post/667440/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "АДСМ5. История сетевой автоматизации",
+        "link": "https://habr.com/ru/post/667012/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "[Личный опыт] Как я жил и работал в Европе и Америке: где строить карьеру, а где комфортнее жить",
+        "link": "https://habr.com/ru/company/getmatch/blog/668718/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Как работают безопасники: обследование промышленной инфраструктуры",
+        "link": "https://habr.com/ru/company/bastion/blog/668630/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Искусственный пинг для турнира по League of Legends",
+        "link": "https://habr.com/ru/post/668640/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Dependency Injection и Full state сервер",
+        "link": "https://habr.com/ru/company/timeweb/blog/666924/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "История о бесконечном регрессионном тестировании",
+        "link": "https://habr.com/ru/company/icl_services/blog/668742/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Развертывание React-приложения",
+        "link": "https://habr.com/ru/company/simbirsoft/blog/668622/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Особенности шифрования популярных мессенджеров: выбираем самый безопасный",
+        "link": "https://habr.com/ru/company/first/blog/668736/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Станция 2. Истории разработки одного из самых сложных устройств Яндекса",
+        "link": "https://habr.com/ru/company/yandex/blog/668660/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "Близкое будущее квантового компьютера в наивных вопросах и ответах",
+        "link": "https://habr.com/ru/company/lanit/blog/667928/"
+    },
+    {
+        "date": "2022-05-31",
+        "title": "31 мая 2022 метеорный дождь Тау-Геркулиды",
+        "link": "https://habr.com/ru/post/668708/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Как сделать ИИ для поиска алмазов в Minecraft",
+        "link": "https://habr.com/ru/company/skillfactory/blog/668702/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Как студенты решили хакатонить и что из этого вышло",
+        "link": "https://habr.com/ru/post/668704/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Массовый прием обыкновенных SMS в Telegram (или Viber)",
+        "link": "https://habr.com/ru/post/668680/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Security Week 2222: уязвимость в приложении Zoom",
+        "link": "https://habr.com/ru/company/kaspersky/blog/668666/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Система сбора распределенной телеметрии на Cassandra и Kotlin Spring",
+        "link": "https://habr.com/ru/company/otus/blog/668524/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Визуализация и анализ зимних температур Алматы за последние сто лет на Streamlit",
+        "link": "https://habr.com/ru/post/668672/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Графический интерфейс с дизайнером форм для сценарного языка OneScript",
+        "link": "https://habr.com/ru/post/668670/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Внедрение автотестов UI web-приложения через связку Python, Selenium и QASE (ч.2)",
+        "link": "https://habr.com/ru/post/668668/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Корутины, компиляторы, кодогенерация и другие «ко...» грядущей C++ Russia",
+        "link": "https://habr.com/ru/company/jugru/blog/668132/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Недельный геймдев: #72 — 29 мая, 2022",
+        "link": "https://habr.com/ru/post/668662/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Дайджест недели от Apple Pro Weekly News (23.05 – 29.05.22)",
+        "link": "https://habr.com/ru/post/668642/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Все должно быть под контролем. Резервное копирование для Kubernetes. Часть 2",
+        "link": "https://habr.com/ru/company/otus/blog/668308/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Анонс: митап «Быстрый бэкенд». MongoDB, оптимизация алгоритмов и диагностика проблем в больших проектах",
+        "link": "https://habr.com/ru/company/joom/blog/668598/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Блюда из ресторанов: свежий взгляд на доставку от «ВкусВилл»",
+        "link": "https://habr.com/ru/company/automacon/blog/668594/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "СИБУР на Highload++ 2022. Как это было",
+        "link": "https://habr.com/ru/company/sibur_official/blog/668218/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Английский для тестировщиков — как надо",
+        "link": "https://habr.com/ru/post/668586/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Kubernetes в НСПК",
+        "link": "https://habr.com/ru/company/nspk/blog/668578/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Что доктор прописал для хранения, управления и использования фото-коллекции или история одного стартапа (Выпуск N-2)",
+        "link": "https://habr.com/ru/post/668552/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Demhack 4: проекты во время *****",
+        "link": "https://habr.com/ru/company/roskomsvoboda/blog/668514/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Как сделать большой продукт доступным",
+        "link": "https://habr.com/ru/company/wrike/blog/668268/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Отечественный портативный ВЧ генератор (отзыв)",
+        "link": "https://habr.com/ru/post/668188/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Контейнеры JavaScript",
+        "link": "https://habr.com/ru/company/otus/blog/668528/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Rama Works U80-A: механическая кастомная клавиатура за $800+. Что она умеет?",
+        "link": "https://habr.com/ru/company/selectel/blog/668508/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Книга «Open Source. Разработка программ с открытым исходным кодом»",
+        "link": "https://habr.com/ru/company/piter/blog/662215/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Анализ аудиоданных (часть 1)",
+        "link": "https://habr.com/ru/post/668518/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Kincony KC868-A32: авианосец на DIN-рейку",
+        "link": "https://habr.com/ru/company/ruvds/blog/668126/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Jitsi-meet: авторизация по JWT-токену",
+        "link": "https://habr.com/ru/company/timeweb/blog/666156/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Какой должна быть современная CRM: от разработки до применения в бизнесе",
+        "link": "https://habr.com/ru/company/t1consulting/blog/668148/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Когда тестирование бессильно. Космические лучи меняют биты памяти чаще, чем принято думать",
+        "link": "https://habr.com/ru/company/first/blog/667208/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Как плагин Emmet помогает ускорить работу с программным кодом",
+        "link": "https://habr.com/ru/post/668476/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Учим LLDB уточнять указатели на локальные переменные",
+        "link": "https://habr.com/ru/company/hsespb/blog/668220/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Используем фотоаппарат в качестве веб-камеры",
+        "link": "https://habr.com/ru/post/667712/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Строим тепловые карты в Apache Zeppelin",
+        "link": "https://habr.com/ru/post/668468/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Проект Smart_U: ещё одна метеостанция на Arduino",
+        "link": "https://habr.com/ru/post/668460/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Фронтенд-новости №8. Вышел Wordpress 6.0, найдена оптимальная длина строки, <dialog> под вопросом",
+        "link": "https://habr.com/ru/company/htmlacademy/blog/668356/"
+    },
+    {
+        "date": "2022-05-30",
+        "title": "Сгорел сарай, гори и хата, или Месть британского сисадмина",
+        "link": "https://habr.com/ru/company/searchinform/blog/668114/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "О ситуации с криптовалютами в отдельно взятой стране — Венесуэле",
+        "link": "https://habr.com/ru/post/668296/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Работа в Data Science: что важно знать и как этому научиться",
+        "link": "https://habr.com/ru/post/668428/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Измерение вакуума (часть 5). Обработка сигнала от ионизационного датчика давления (пример)",
+        "link": "https://habr.com/ru/post/668426/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Можно ли в 40 лет стать программистом?",
+        "link": "https://habr.com/ru/post/668420/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Дайджест интересных материалов для мобильного разработчика #444 (23 — 29 мая)",
+        "link": "https://habr.com/ru/company/productivity_inside/blog/668412/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Исследуем осознанно. Топ лайфхаков и must-know для начинающего UX-исследователя",
+        "link": "https://habr.com/ru/post/668398/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Авто преписка в тг с привязкой к Google Calendar",
+        "link": "https://habr.com/ru/post/668392/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Биоинформатика: IT vs рак",
+        "link": "https://habr.com/ru/company/servermall/blog/668264/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Тыж программист. Ада Лавлейс",
+        "link": "https://habr.com/ru/company/timeweb/blog/668294/"
+    },
+    {
+        "date": "2022-05-29",
+        "title": "Новая архитектура квантового процессора на кудитах: что это и где может применяться",
+        "link": "https://habr.com/ru/company/selectel/blog/660013/"
+    },
+    {
+        "date": "2022-05-28",
+        "title": "Вы в самом деле хотите стать программистом микроконтроллеров?",
+        "link": "https://habr.com/ru/post/668368/"
+    },
+    {
+        "date": "2022-05-28",
+        "title": "Почему черная дыра так выглядит",
+        "link": "https://habr.com/ru/post/668358/"
+    },
+    {
+        "date": "2022-05-28",
+        "title": "Измерение вакуума (часть 4). «Орбитрон», где на орбиту выводят электроны",
+        "link": "https://habr.com/ru/post/668336/"
+    },
+    {
+        "date": "2022-05-28",
+        "title": "Ядерная зима и её компьютерное моделирование в 80-х",
+        "link": "https://habr.com/ru/company/ruvds/blog/668256/"
+    },
+    {
+        "date": "2022-05-28",
+        "title": "Микросервисы и неизбежная боль?",
+        "link": "https://habr.com/ru/post/668300/"
+    },
+    {
+        "date": "2022-05-28",
+        "title": "Google Map API:CoderMap функции и возможности",
+        "link": "https://habr.com/ru/post/668304/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Как сделать веб-шрифты красочными",
+        "link": "https://habr.com/ru/company/skillfactory/blog/668298/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Ampere Computing продолжает развивать ARM-процессоры для дата-центров: уже рассылаются серверные чипы",
+        "link": "https://habr.com/ru/company/selectel/blog/660017/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "«Работаем дальше»: что можно сказать о российском «чипгейте» и локализации сетевой инфраструктуры",
+        "link": "https://habr.com/ru/post/668244/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Сроки горят: почему не соблюдаем дедлайны и что с этим делать",
+        "link": "https://habr.com/ru/company/netologyru/blog/668284/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Собираем генератор данных на Blender. Часть 1: Объекты",
+        "link": "https://habr.com/ru/company/friflex/blog/666958/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Vue: переворот сознания",
+        "link": "https://habr.com/ru/company/auriga/blog/667516/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Математика демократии, самый ценный ресурс, смерть Вселенной и другие сюжеты: обзор книг физика Дэвида Дойча",
+        "link": "https://habr.com/ru/company/ruvds/blog/658295/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Слёрм приглашает спикеров и экспертов",
+        "link": "https://habr.com/ru/company/southbridge/blog/668212/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Не все герои носят плащи. Программист-энтузиаст построил кластер Nvidia GeForce 1080 Ti для лечения рака",
+        "link": "https://habr.com/ru/company/dcmiran/blog/668208/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Как я позавидовал начинающим Junior Java разработчикам",
+        "link": "https://habr.com/ru/company/otus/blog/667130/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Трезвый взгляд на RAW видео",
+        "link": "https://habr.com/ru/post/668198/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Миссия выполнима: знакомимся с физическим пентестом",
+        "link": "https://habr.com/ru/company/group-ib/blog/668036/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "«Ваша сезонность, сэр!»: ищем тренд и прогнозируем спрос с помощью временных рядов, SARIMA и Python. Ч.1",
+        "link": "https://habr.com/ru/post/668186/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Wix toolset: не так страшен черт, как Windows installer",
+        "link": "https://habr.com/ru/company/auriga/blog/668082/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Безопасность + Разработка = ♡ Как выпускать релизы в срок и дружить с безопасностью",
+        "link": "https://habr.com/ru/company/oleg-bunin/blog/667968/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Технологии UNIGINE 2: система воды",
+        "link": "https://habr.com/ru/company/unigine/blog/668174/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Пятничное: пишем консольную утилиту на Go для добычи гифок с котами",
+        "link": "https://habr.com/ru/post/668162/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Водопровод в современной квартире",
+        "link": "https://habr.com/ru/post/668158/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Подгон под MNIST-овский датасет",
+        "link": "https://habr.com/ru/post/668144/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Работа с фреймворками Python: преимущества и проблемы",
+        "link": "https://habr.com/ru/company/southbridge/blog/668138/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Webpack Module Federation: «официальное» решение в микрофронтендах",
+        "link": "https://habr.com/ru/company/alfa/blog/668118/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Ремонт и устранение конструктивных недостатков ноутбука Dell при помощи дрели, метчика, тисков и электролобзика",
+        "link": "https://habr.com/ru/post/667780/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "Как бы вы реализовали форму аутентификации на сайте? Вопрос для собеседования на Junior/Middle/Senior?",
+        "link": "https://habr.com/ru/post/668104/"
+    },
+    {
+        "date": "2022-05-27",
+        "title": "HTTPS для сайта в Kubernetes-кластере с помощью NGINX Ingress Controller, cert-manager и Let’s Encrypt",
+        "link": "https://habr.com/ru/post/668098/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "StyleGAN3 — изображения в разном стиле одним кликом",
+        "link": "https://habr.com/ru/company/skillfactory/blog/668090/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "О чём расскажут на Hydra: параллельность и распределённость от введения до хардкора",
+        "link": "https://habr.com/ru/company/jugru/blog/666568/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Зачем мы установили беспроводные датчики мониторинга напряжения стоек и в чем профит для клиентов дата-центра",
+        "link": "https://habr.com/ru/company/selectel/blog/666954/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Классификация гистологических изображений со светлоклеточным раком почки, используя Keras",
+        "link": "https://habr.com/ru/post/668044/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Собеседование наоборот: ВТБ, «билайн», МТС, «Домклик», «Полианалитика», Sportmaster Lab, Devexperts, Usetech",
+        "link": "https://habr.com/ru/company/habr_career/blog/668022/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Product-design: 10 этапов хорошего продукта",
+        "link": "https://habr.com/ru/post/668020/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Как мы готовили легкомоторный полёт на 9 мая",
+        "link": "https://habr.com/ru/company/tuturu/blog/667698/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Как мы научились обходиться без налички: краткая история банковских карт",
+        "link": "https://habr.com/ru/company/gazprombank/blog/667982/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Будущая замена полигонам. Или что такое воксели?",
+        "link": "https://habr.com/ru/post/667984/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Распределение вычислительной мощности между несколькими ПК",
+        "link": "https://habr.com/ru/post/667972/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Захват флага: Практика уязвимости веб-приложений на Node.js (часть 1)",
+        "link": "https://habr.com/ru/company/otus/blog/667926/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Я поучился проходить интервью с помощью нового ИИ от Google. Это страннее, чем кажется",
+        "link": "https://habr.com/ru/company/first/blog/667932/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Создание лендингов методом «вопросов и ответов»",
+        "link": "https://habr.com/ru/post/667812/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Гонконг: (не) «китайский городовой» Дельты Жемчужной реки",
+        "link": "https://habr.com/ru/company/ruvds/blog/667714/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Турбулентность на рынке: как создать востребованный продукт в условиях неопределенности",
+        "link": "https://habr.com/ru/company/agima/blog/667876/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Самый громкий звук в истории человечества",
+        "link": "https://habr.com/ru/company/ua-hosting/blog/664508/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Пример описания многослойной архитектуры, основанной на использовании наборов подслоёв и иерархии моделей данных",
+        "link": "https://habr.com/ru/post/667922/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Академия Аналитиков Авито: новый набор",
+        "link": "https://habr.com/ru/company/avito/blog/667892/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Как автоматически переписать текст другими словами, сохранив смысл? Рассказываем про рерайт-сервис",
+        "link": "https://habr.com/ru/company/sberdevices/blog/667106/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Где именно лежит граница между зарплатными грейдами: как это устроено у нас",
+        "link": "https://habr.com/ru/company/skyeng/blog/667740/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Земля и Луна с борта Кассини",
+        "link": "https://habr.com/ru/post/667902/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Это спираль, Солнышко",
+        "link": "https://habr.com/ru/post/667896/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "Повышение конверсии сайта и персонализация CRM коммуникаций с машинным обучением",
+        "link": "https://habr.com/ru/post/666744/"
+    },
+    {
+        "date": "2022-05-26",
+        "title": "NVIDIA А5500: реальная мощь или фейслифтинг?",
+        "link": "https://habr.com/ru/company/hostkey/blog/667886/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Ретроспектива: личный опыт, как сделать практику продуктивной",
+        "link": "https://habr.com/ru/post/667872/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Коллективное распознавание смысла",
+        "link": "https://habr.com/ru/post/667646/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Объединение данных с датчиков и интерполяция для Autonomous Vehicles",
+        "link": "https://habr.com/ru/post/667842/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Асинхронность, конкурентность, параллельность, многопоточность — разбираемся «по понятиям» :)",
+        "link": "https://habr.com/ru/post/667590/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Аналитика содержимого аудиоразговоров (пробуем, пытаемся)",
+        "link": "https://habr.com/ru/post/667824/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Тестирование интеграции Kotlin веб сервиса на Spring Boot с базой данных",
+        "link": "https://habr.com/ru/post/667632/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Многомодульный BDSM: стоит ли внедрять Gradle модули и какие типы модулей бывают?",
+        "link": "https://habr.com/ru/company/cian/blog/667776/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Как мы делаем электросамокаты Halten — из России, от российских инженеров и для российских реалий",
+        "link": "https://habr.com/ru/company/halten/blog/667790/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Как поставить мини IT продукт на технологичные рельсы",
+        "link": "https://habr.com/ru/post/667794/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Что такое Brain2Logic: Data Science без кода для юниоров",
+        "link": "https://habr.com/ru/company/rubda/blog/667788/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Разработка навыка для «Алисы» на основе Google Keep заметок",
+        "link": "https://habr.com/ru/post/667750/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Выгуливаем ноутбук. Краткий гайд по городским рюкзакам XD Design",
+        "link": "https://habr.com/ru/company/madrobots/blog/667720/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Интервью с Филипом Роуздейлом основателем Second Life о первых метавселенных и о том, что нас ждёт в будущем",
+        "link": "https://habr.com/ru/post/667742/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Как ускорить Python с помощью C-расширений. Часть 1",
+        "link": "https://habr.com/ru/company/ru_mts/blog/667568/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Как начать работать с библиотекой для машинного обучения Metaflow",
+        "link": "https://habr.com/ru/company/vk/blog/666604/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Искусственный интеллект и безопасность",
+        "link": "https://habr.com/ru/post/667580/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "poiskvps.ru — интервью с создателем сервиса для поиска виртуальных серверов",
+        "link": "https://habr.com/ru/company/timeweb/blog/667556/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Эмулятор CD-Rom для SonyPlaystation который я писал больше десяти лет. Часть 4",
+        "link": "https://habr.com/ru/post/666976/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Итоги хакатона по синтезу речи и голосовым дипфейкам",
+        "link": "https://habr.com/ru/company/ashmanov_net/blog/667312/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Это наконец произошло: нейросеть и человек написали книгу. Вместе! Рассказываем, как им помогали разработчики",
+        "link": "https://habr.com/ru/company/sberdevices/blog/667582/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Как найти тему для выступления или статьи",
+        "link": "https://habr.com/ru/company/tinkoff/blog/667694/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Игры, в которые Nintendo не хотела дать поиграть: Tengen",
+        "link": "https://habr.com/ru/post/665140/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Договор на ИТ-аутстаффинг: как не обжечься самому и не подпалить клиента",
+        "link": "https://habr.com/ru/post/667686/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Алгебра текста без формул",
+        "link": "https://habr.com/ru/post/667640/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Data profiling, и с чем его едят",
+        "link": "https://habr.com/ru/company/unidata/blog/667636/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "10 интересных вещей на стыке промышленного дизайна и технологий или как найти своего подписчика",
+        "link": "https://habr.com/ru/post/667656/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Как банкротились российские брокеры: куда могут утечь ваши деньги и ценные бумаги",
+        "link": "https://habr.com/ru/post/667658/"
+    },
+    {
+        "date": "2022-05-25",
+        "title": "Недельный геймдев: #71 — 22 мая, 2022",
+        "link": "https://habr.com/ru/post/667652/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Асинхронный python без головной боли",
+        "link": "https://habr.com/ru/post/667630/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Список полезных статей и видео для изучения тестирования API",
+        "link": "https://habr.com/ru/post/667634/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "От Odyssey до облачного гейминга: как развивалась игровая индустрия",
+        "link": "https://habr.com/ru/company/sberbank/blog/667570/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Что под капотом у Умного Ташкента?",
+        "link": "https://habr.com/ru/company/visiology/blog/667450/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Как я открыл компанию по созданию детских наборов электроники",
+        "link": "https://habr.com/ru/company/ruvds/blog/663876/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Как найти работу в IT в Европе в 2022 году: востребованные роли, компетенции, типы компаний",
+        "link": "https://habr.com/ru/post/667548/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Airtable & Telegram Bot — рецепт быстрого запуска",
+        "link": "https://habr.com/ru/post/667544/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Ленточные накопители: фантастические твари мира архивирования",
+        "link": "https://habr.com/ru/company/x-com/blog/667542/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Что спрашивают у начинающего разработчика JavaScript на собеседованиях и в тестовых заданиях",
+        "link": "https://habr.com/ru/company/netologyru/blog/667520/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "1000 и 1 нюанс. UX-проектирование и тестирование сложного функционала или почему не нужно спешить делать дизайн",
+        "link": "https://habr.com/ru/company/sportmaster_lab/blog/667310/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Что можно поменять в дёснах (правда, цена операции — 2 месяца смузи-диеты)",
+        "link": "https://habr.com/ru/company/belayaraduga/blog/667494/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Интерпретируемость в машинном обучении: итоги 2021 г",
+        "link": "https://habr.com/ru/company/ods/blog/667492/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Уменьшение трафика за счёт сжатия изображений. На примере Laravel",
+        "link": "https://habr.com/ru/post/666542/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Насколько естественен естественный язык? Представляем датасет RuCoLA",
+        "link": "https://habr.com/ru/post/667336/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Используем клиентский процессор по максимуму. Часть 2: SIMD + мультипоточность",
+        "link": "https://habr.com/ru/company/ruvds/blog/663936/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Security awareness — больше, чем просто фишинг. Часть 2",
+        "link": "https://habr.com/ru/company/qiwi/blog/667230/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Нелегкий путь к динамическому анализу мобильных приложений",
+        "link": "https://habr.com/ru/company/swordfish_security/blog/667422/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Спасаем тревожных миллениалов от необходимости звонить: как в приложении для заказа пиццы появился чат",
+        "link": "https://habr.com/ru/company/dododev/blog/666640/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Социальные сети: безопасность и моделирование",
+        "link": "https://habr.com/ru/post/662015/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Анализ эффективности тренировок с помощью Python и линейной регрессии",
+        "link": "https://habr.com/ru/company/timeweb/blog/666024/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Как мы классифицировали товары при разработке СDP-платформы",
+        "link": "https://habr.com/ru/post/667474/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Первый взгляд на CSS свойство object-view-box",
+        "link": "https://habr.com/ru/post/667386/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Как выбрать куда иммигрировать. 10 главных критериев",
+        "link": "https://habr.com/ru/post/667460/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Диаграмма Эффектов: Спецификация v0.0.2",
+        "link": "https://habr.com/ru/post/667446/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "NLP. Проект по распознаванию адресов. Natasha, Pullenti, Stanza",
+        "link": "https://habr.com/ru/post/667442/"
+    },
+    {
+        "date": "2022-05-24",
+        "title": "Утилитарный блокчейн. 1. Ценности",
+        "link": "https://habr.com/ru/post/667138/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Набор практик по работе с Postgresql глазами Spring java backend разработчика",
+        "link": "https://habr.com/ru/post/667428/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Измерение вакуума (часть 3). Термоэмиссионные манометрические датчики, какие они все разные",
+        "link": "https://habr.com/ru/post/667426/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter",
+        "link": "https://habr.com/ru/post/667424/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Дайджест недели от Apple Pro Weekly News (16.05 – 22.05.22)",
+        "link": "https://habr.com/ru/post/667418/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Долго. Дорого… Делать гаджет в России – учиться, терять деньги, жить на работе",
+        "link": "https://habr.com/ru/company/nebo/blog/667406/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "ПО для разработчиков 2022: лучшие продукты года",
+        "link": "https://habr.com/ru/post/667396/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Работаем с Аудио через Командную Строку на Linux и Windows",
+        "link": "https://habr.com/ru/post/667358/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Go в API для мобильного приложения. Создаем совместный список покупок с мгновенными уведомлениями",
+        "link": "https://habr.com/ru/company/otus/blog/667308/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Главные IT-профессии 2022 года, которые стали ещё более востребованными",
+        "link": "https://habr.com/ru/company/skillfactory/blog/667262/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Что доктор прописал для хранения, управления и использования фото-коллекции или история одного стартапа (Выпуск N-1)",
+        "link": "https://habr.com/ru/post/667330/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Как живется в США «айтишнику». Три года спустя",
+        "link": "https://habr.com/ru/post/666914/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Три слоя градиента одного слайдера",
+        "link": "https://habr.com/ru/company/tinkoff/blog/667254/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Слёрм Карьера — Вакансии для инженеров, админов и разработчиков",
+        "link": "https://habr.com/ru/company/southbridge/blog/667276/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Распределённая настройка гиперпараметров с помощью Ray Tune",
+        "link": "https://habr.com/ru/company/wunderfund/blog/667236/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Шпаргалка по работе с медиа в браузере",
+        "link": "https://habr.com/ru/company/timeweb/blog/667148/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Как сдать ISTQB экзамен не выходя из дома",
+        "link": "https://habr.com/ru/post/667238/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Свободное ПО моделисту: делаем аэроглиссер",
+        "link": "https://habr.com/ru/post/666634/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Z-Uno Shield 2. Вторая попытка сделать дома «умными»",
+        "link": "https://habr.com/ru/company/ruvds/blog/662944/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Перчатки круглый год для новых ощущений: обзор тактильных перчаток для вашего продукта",
+        "link": "https://habr.com/ru/post/667218/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Проведи мне интервью. Альтернативный флоу проведения технического интервью backend Spring Java разработчика",
+        "link": "https://habr.com/ru/post/667212/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Как будут собирать российские серверы в новых условиях",
+        "link": "https://habr.com/ru/company/first/blog/665924/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Разворачиваем проект серверов Minecraft",
+        "link": "https://habr.com/ru/post/667198/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Жесткий креатив в условиях факапа с доставкой: как мы сделали переговорки для одного банка",
+        "link": "https://habr.com/ru/company/croc/blog/667196/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Как мы распознавали птиц при помощи камер и искусственного интеллекта (часть 2)",
+        "link": "https://habr.com/ru/post/667194/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "6 советов по удобным интерфейсам за май",
+        "link": "https://habr.com/ru/post/667118/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Decision Intelligence Framework — Принятие решений на основе данных",
+        "link": "https://habr.com/ru/post/666874/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "14 Важных UI/UX типсов для твоего дизайна",
+        "link": "https://habr.com/ru/post/667188/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Принципы ООП в TypeScript",
+        "link": "https://habr.com/ru/post/667156/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Дайджест интересных материалов для мобильного разработчика #443 (16 — 22 мая)",
+        "link": "https://habr.com/ru/company/productivity_inside/blog/667178/"
+    },
+    {
+        "date": "2022-05-23",
+        "title": "Распад протона — невозможность 2,5 класса",
+        "link": "https://habr.com/ru/post/667172/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Тестирование в 1C Bitrix",
+        "link": "https://habr.com/ru/post/667160/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Измерение вакуума и история одного изобретения (часть 2). Термоэмиссионные манометрические датчики",
+        "link": "https://habr.com/ru/post/667150/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Введение в SVG-анимации для верстальщиков",
+        "link": "https://habr.com/ru/post/667116/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Знакомьтесь, object-view-box",
+        "link": "https://habr.com/ru/post/667134/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "OSINT самолетов, пароходов и поездов",
+        "link": "https://habr.com/ru/company/timeweb/blog/665724/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Как заставить директора купить кондиционер",
+        "link": "https://habr.com/ru/post/667124/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Beyond URL and URN",
+        "link": "https://habr.com/ru/post/667120/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Как сфотографировать Луну?",
+        "link": "https://habr.com/ru/post/667110/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Разметка дисков в стиле 70-х",
+        "link": "https://habr.com/ru/company/timeweb/blog/667098/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "ORM — отвратительный анти-паттерн",
+        "link": "https://habr.com/ru/post/667078/"
+    },
+    {
+        "date": "2022-05-22",
+        "title": "Как отлаживать коллекции Java с Lightrun на продакшене",
+        "link": "https://habr.com/ru/company/skillfactory/blog/667072/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "О QR-кодах и социальной инженерии",
+        "link": "https://habr.com/ru/post/667068/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Измерение вакуума и история одного изобретения (часть 1)",
+        "link": "https://habr.com/ru/post/667052/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "«Exploring in UE4» Принципы передвижения персонажа (часть 1)",
+        "link": "https://habr.com/ru/post/667028/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "32 Атрибута Хорошей Блок-Схемы для PCB",
+        "link": "https://habr.com/ru/post/667030/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "История сотрудника Google №13",
+        "link": "https://habr.com/ru/post/666540/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Надежный способ сокрытия ссылок сайта от поисковых роботов",
+        "link": "https://habr.com/ru/post/667016/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Во что поиграть, если шахматы ещё не придумали, а ты фараон / викинг / вождь майя",
+        "link": "https://habr.com/ru/company/timeweb/blog/665706/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Самообучаемый чат-бот python, который умеет искать ответы в Wikipedia",
+        "link": "https://habr.com/ru/post/667008/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Отношения с IT. Часть двенадцатая. Почему мы стоим так дорого?",
+        "link": "https://habr.com/ru/post/667002/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Тренировка мозга для эффективной деятельности",
+        "link": "https://habr.com/ru/post/666992/"
+    },
+    {
+        "date": "2022-05-21",
+        "title": "Три мифа о коэффициенте ROI в отношении UX",
+        "link": "https://habr.com/ru/post/666978/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "20+ консольных команд, которые изменят ваше представление об отладке",
+        "link": "https://habr.com/ru/post/666972/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Зачем оформлять документы о создании программного обеспечения (мнение практикующего юриста)",
+        "link": "https://habr.com/ru/post/666970/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Эмулятор CD-Rom для SonyPlaystation который я писал больше десяти лет. Часть 3",
+        "link": "https://habr.com/ru/post/666296/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Образ современного тестировщика. Что нужно знать и уметь",
+        "link": "https://habr.com/ru/post/666930/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "О чем боятся спросить Junior DS. Оптимизация кода",
+        "link": "https://habr.com/ru/post/666900/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Псевдотуберкулез",
+        "link": "https://habr.com/ru/post/664188/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Протестировать всё: о чём расскажут на Heisenbug 2022 Spring",
+        "link": "https://habr.com/ru/company/jugru/blog/666224/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Мой опыт релокации в Баварию по Blue Card",
+        "link": "https://habr.com/ru/post/666864/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "RFM-анализ для успешного сегментирования клиентов с помощью Python",
+        "link": "https://habr.com/ru/company/otus/blog/666862/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Упущенные из виду факты о переменных и объектах в Python: все дело в указателях",
+        "link": "https://habr.com/ru/company/otus/blog/666858/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Какие гаджеты могут заменить смартфоны в будущем",
+        "link": "https://habr.com/ru/company/T1Holding/blog/666800/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Российские бионические протезы смогут почувствовать прикосновение",
+        "link": "https://habr.com/ru/post/666842/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Идеальная работа. Программирование без прикрас. Стек",
+        "link": "https://habr.com/ru/company/piter/blog/666648/"
+    },
+    {
+        "date": "2022-05-20",
+        "title": "Подсказки по типам Python — Как сузить количество типов с помощью TypeGuard",
+        "link": "https://habr.com/ru/company/otus/blog/666830/"
+    }
+]
