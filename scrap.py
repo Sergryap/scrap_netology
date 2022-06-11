@@ -32,17 +32,29 @@ def load_keys(item, all_articles: list, link=None, lk=False):
     print(f"<{date}><{title}><{link}>")
 
 
-def get_pattern(w=('дизайн', 'фото', 'web', 'python')):
+def get_pattern(w: list):
     """Компиляция паттерна для поиска статей по списку"""
-    pattern = fr"\b({w[0]}\w*|{w[1]}\w*|{w[2]}\w*|{w[3]}\w*)\b"
+    p = ""
+    for rew in w:
+        p += fr"{rew}\w*|"
+    pattern = fr"\b({p[:-1]})\b"
+    # pattern = fr"\b({w[0]}\w*|{w[1]}\w*|{w[2]}\w*|{w[3]}\w*)\b"
     return re.compile(pattern, re.IGNORECASE)
 
 
-def get_articles(start: str = "https://habr.com/ru/all"):
+def max_page(start: str = "https://habr.com/ru/all"):
+    """Определение максимальной страницы пагинации"""
+    soup = get_soup(start)
+    pages = soup.find(class_="tm-pagination__pages").find_all("a")
+    return max([int(page.text) for page in pages])
+
+
+def get_articles(w, start: str = "https://habr.com/ru/all"):
     """Парсинг с анализом по превью"""
-    pattern = get_pattern()
+    pattern = get_pattern(w)
+    i = max_page(start)
     all_articles = []
-    for n, url in enumerate([f"{start}/page{i}/" for i in range(1, 51)]):
+    for n, url in enumerate([f"{start}/page{i}/" for i in range(1, i + 1)]):
         print(f"Анализ страницы №{n + 1}")
         soup = get_soup(url)
         tm_article_snippet = soup.find_all(class_="tm-article-snippet")
@@ -52,11 +64,12 @@ def get_articles(start: str = "https://habr.com/ru/all"):
     return all_articles
 
 
-def get_articles_extreme(start: str = "https://habr.com/ru/all"):
+def get_articles_extreme(w, start: str = "https://habr.com/ru/all"):
     """Парсинг с анализом по превью и всей статье"""
-    pattern = get_pattern()
+    pattern = get_pattern(w)
+    i = max_page(start)
     all_articles = []
-    for n, url in enumerate([f"{start}/page{i}/" for i in range(1, 51)]):
+    for n, url in enumerate([f"{start}/page{i}/" for i in range(1, i + 1)]):
         print(f"Анализ страницы №{n + 1}")
         soup = get_soup(url)
         tm_article_snippet = soup.find_all(class_="tm-article-snippet")
@@ -79,6 +92,7 @@ def save_to_json(book: {list, dict}, file: str):
 
 
 if __name__ == '__main__':
-    articles = get_articles_extreme()
-    save_to_json(articles, "articles_inside.json")
-    # get_articles_inside()
+    KEYWORDS = ['дизайн', 'фото', 'web', 'python']
+    articles = get_articles_extreme(KEYWORDS)
+    save_to_json(articles, "articles_extreme.json")
+
