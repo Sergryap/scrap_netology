@@ -9,7 +9,6 @@ def get_soup(u: str):
     """Получение данных из запроса. Создание экземпляря BeautifulSoup"""
     headers = Headers(os="win", headers=True).generate()
     src = requests.get(u, headers=headers).text
-    print(headers)
     return BeautifulSoup(src, "lxml")
 
 
