@@ -14,7 +14,7 @@ def get_soup(u: str):
     return BeautifulSoup(src, "lxml")
 
 
-def load_keys(item, all_articles: list, link=None, lk=False):
+def load_keys(item, all_articles: list, link=None):
     """
     Добавление словаря в список. Вспомогательная функция для других функций.
     При наличии ссылки, она задается в параметре link,
@@ -22,7 +22,7 @@ def load_keys(item, all_articles: list, link=None, lk=False):
     """
     date = item.find("time")["title"][:10]
     title = item.find("h2").find("span").text
-    if lk:
+    if not link:
         link = f'https://habr.com{item.find("h2").find("a")["href"]}'
     all_articles.append({
         "date": date,
@@ -60,7 +60,7 @@ def get_articles(w, start: str = "https://habr.com/ru/all"):
         tm_article_snippet = soup.find_all(class_="tm-article-snippet")
         for item in tm_article_snippet:
             if pattern.search(item.text):
-                load_keys(item, all_articles, lk=True)
+                load_keys(item, all_articles)
     return all_articles
 
 
@@ -95,4 +95,3 @@ if __name__ == '__main__':
     KEYWORDS = ['дизайн', 'фото', 'web', 'python']
     articles = get_articles_extreme(KEYWORDS)
     save_to_json(articles, "articles_extreme.json")
-
