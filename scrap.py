@@ -7,19 +7,18 @@ import re
 
 class Articles:
 
-    def __init__(self, start="https://habr.com/ru/all", keywords=('дизайн', 'фото', 'web', 'python')):
+    def __init__(self, keywords: list, start="https://habr.com/ru/all"):
         self.start = start
         self.keywords = keywords
 
-    def get_soup(self, link=None):
+    def get_soup(self, url):
         """Получение данных из запроса. Создание экземпляря BeautifulSoup"""
         headers = Headers(os="win", headers=True).generate()
-        url = self.start if not link else link
         src = requests.get(url, headers=headers).text
         if src:
             return BeautifulSoup(src, "lxml")
         else:
-            return self.get_soup()
+            return self.get_soup(url)
 
     @staticmethod
     def load_keys(item, all_articles: list, link=None):
@@ -49,7 +48,7 @@ class Articles:
 
     def max_page(self):
         """Определение максимальной страницы пагинации"""
-        soup = self.get_soup()
+        soup = self.get_soup(self.start)
         pages = soup.find(class_="tm-pagination__pages").find_all("a")
         return max([int(page.text) for page in pages])
 
@@ -60,7 +59,7 @@ class Articles:
         all_articles = []
         for n, url in enumerate([f"{self.start}/page{i}/" for i in range(1, i + 1)]):
             print(f"Анализ страницы №{n + 1}")
-            soup = self.get_soup()
+            soup = self.get_soup(url)
             tm_article_snippet = soup.find_all(class_="tm-article-snippet")
             for item in tm_article_snippet:
                 if pattern.search(item.text):
@@ -74,14 +73,14 @@ class Articles:
         all_articles = []
         for n, url in enumerate([f"{self.start}/page{i}/" for i in range(1, i + 1)]):
             print(f"Анализ страницы №{n + 1}")
-            soup = self.get_soup()
+            soup = self.get_soup(url)
             tm_article_snippet = soup.find_all(class_="tm-article-snippet")
             for item in tm_article_snippet:
                 link = f'https://habr.com{item.find("h2").find("a")["href"]}'
                 if pattern.search(item.text):
                     self.load_keys(item, all_articles, link)
                 else:
-                    soup_next = self.get_soup(link=link)
+                    soup_next = self.get_soup(link)
                     article = soup_next.find(
                         class_="tm-article-presenter__content tm-article-presenter__content_narrow")
                     if pattern.search(article.text):
@@ -96,6 +95,7 @@ class Articles:
 
 
 if __name__ == '__main__':
-    parser = Articles()
+    KEYWORDS = ['дизайн', 'фото', 'web', 'python']
+    parser = Articles(KEYWORDS)
     articles = parser.get_articles_extreme()
-    parser.save_to_json(articles, "articles_extreme.json")
+    parser.save_to_json(articles, "articles_extreme1.json")
