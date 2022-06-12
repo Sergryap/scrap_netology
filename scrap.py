@@ -39,7 +39,6 @@ def get_pattern(w: list):
     for rew in w:
         p += fr"{rew}\w*|"
     pattern = fr"\b({p[:-1]})\b"
-    # pattern = fr"\b({w[0]}\w*|{w[1]}\w*|{w[2]}\w*|{w[3]}\w*)\b"
     return re.compile(pattern, re.IGNORECASE)
 
 
