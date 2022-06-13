@@ -14,9 +14,9 @@ class Articles:
     def get_soup(self, url):
         """Получение данных из запроса. Создание экземпляря BeautifulSoup"""
         headers = Headers(os="win", headers=True).generate()
-        src = requests.get(url, headers=headers).text
-        if src:
-            return BeautifulSoup(src, "lxml")
+        src = requests.get(url, headers=headers)
+        if src.status_code == 200:
+            return BeautifulSoup(src.text, "lxml")
         else:
             return self.get_soup(url)
 
