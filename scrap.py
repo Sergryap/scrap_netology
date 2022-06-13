@@ -3,16 +3,22 @@ from fake_headers import Headers
 import requests
 import json
 import re
+import time
 
 
 def get_soup(u: str):
     """Получение данных из запроса. Создание экземпляря BeautifulSoup"""
     headers = Headers(os="win", headers=True).generate()
-    src = requests.get(u, headers=headers)
-    if src.status_code == 200:
-        return BeautifulSoup(src.text, "lxml")
-    else:
-        print(src)
+    try:
+        src = requests.get(u, headers=headers)
+        if src.status_code == 200:
+            return BeautifulSoup(src.text, "lxml")
+        else:
+            print(src)
+            return get_soup(u)
+    except requests.exceptions.ConnectTimeout:
+        print('Пауза')
+        time.sleep(3)
         return get_soup(u)
 
 
