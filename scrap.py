@@ -8,10 +8,11 @@ import re
 def get_soup(u: str):
     """Получение данных из запроса. Создание экземпляря BeautifulSoup"""
     headers = Headers(os="win", headers=True).generate()
-    src = requests.get(u, headers=headers).text
-    if src:
-        return BeautifulSoup(src, "lxml")
+    src = requests.get(u, headers=headers)
+    if src.status_code == 200:
+        return BeautifulSoup(src.text, "lxml")
     else:
+        print(src)
         return get_soup(u)
 
 
