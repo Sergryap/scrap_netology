@@ -6,9 +6,9 @@ import re
 
 
 class Articles:
+    start = "https://habr.com/ru/all"
 
-    def __init__(self, keywords: list, start="https://habr.com/ru/all"):
-        self.start = start
+    def __init__(self, keywords: list):
         self.keywords = keywords
 
     def get_soup(self, url):
@@ -18,6 +18,7 @@ class Articles:
         if src.status_code == 200:
             return BeautifulSoup(src.text, "lxml")
         else:
+            print(src)
             return self.get_soup(url)
 
     @staticmethod
